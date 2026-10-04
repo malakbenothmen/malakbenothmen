@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Malak Ben Othmane — Software, Data and Intelligent Experiences</title>
+  <desc id="desc">A dark editorial banner with teal and amber abstract orbital lines, representing software, data and design.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.55" stop-color="#101a2b"/>
+      <stop offset="1" stop-color="#071411"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#14b8a6"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#0d9488" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#0d9488" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#94a3b8" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="390" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="390" rx="22" fill="url(#grid)"/>
+  <ellipse cx="950" cy="170" rx="300" ry="250" fill="url(#halo)"/>
+  <g fill="none" stroke-linecap="round">
+    <ellipse cx="948" cy="174" rx="190" ry="72" stroke="#5eead4" stroke-opacity=".62" stroke-width="1.4" transform="rotate(-28 948 174)"/>
+    <ellipse cx="948" cy="174" rx="190" ry="72" stroke="#fbbf24" stroke-opacity=".45" stroke-width="1.2" transform="rotate(38 948 174)"/>
+    <ellipse cx="948" cy="174" rx="142" ry="115" stroke="#94a3b8" stroke-opacity=".28" stroke-width="1" transform="rotate(70 948 174)"/>
+    <path d="M778 286 Q932 216 1092 80" stroke="url(#glow)" stroke-width="2"/>
+    <path d="M830 64 Q950 156 1112 274" stroke="#fbbf24" stroke-opacity=".65" stroke-width="1.5"/>
+  </g>
+  <g>
+    <circle cx="823" cy="105" r="5" fill="#5eead4"/>
+    <circle cx="1088" cy="94" r="4" fill="#fbbf24"/>
+    <circle cx="1058" cy="278" r="5" fill="#5eead4"/>
+    <circle cx="913" cy="287" r="3" fill="#e2e8f0"/>
+    <circle cx="1008" cy="118" r="8" fill="#0f766e" stroke="#99f6e4" stroke-width="1.5"/>
+  </g>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="76" y="80" font-size="14" letter-spacing="4" fill="#5eead4">ENGINEERING  /  DESIGN  /  INTELLIGENCE</text>
+    <text x="72" y="157" font-size="53" font-weight="700" letter-spacing="-1.6" fill="#f8fafc">Malak Ben Othmane</text>
+    <text x="76" y="205" font-size="23" fill="#cbd5e1">Building thoughtful software for a smarter world.</text>
+    <rect x="76" y="245" width="270" height="38" rx="19" fill="#0f766e" fill-opacity=".22" stroke="#2dd4bf" stroke-opacity=".7"/>
+    <text x="96" y="269" font-size="13" letter-spacing="1.1" fill="#99f6e4">SOFTWARE · AI &amp; DATA · UI/UX</text>
+    <text x="76" y="337" font-size="13" fill="#94a3b8">CURIOUS BY NATURE. INTENTIONAL BY DESIGN.</text>
+  </g>
+</svg>
