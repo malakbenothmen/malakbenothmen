@@ -12,7 +12,7 @@
 
 ## About
 
-I'm a first-year Computer Science Engineering student at ENICarthage, with a licence in information systems development. I design interfaces and build the mobile apps, web apps and backends behind them. I'm also exploring data engineering, AI integration and system architecture.
+I'm a second-year Computer Science Engineering student at ENICarthage, with a licence in information systems development. I design interfaces and build the mobile apps, web apps and backends behind them. I'm also exploring data engineering, AI integration and system architecture.
 
 ## Tech stack
 
