@@ -1,153 +1,102 @@
---
-  Malak Ben Othmane — GitHub Profile README
-  Put this README.md in the PUBLIC repository named exactly: malakbenothmen
-  Upload the assets/ folder beside it so the relative image paths work.
--->
-
 <div align="center">
 
-<img src="assets/hero.svg" alt="Malak Ben Othmane — Software, Data & Intelligent Experiences" width="100%" />
+<img src="./banner.svg" alt="Malak, developer and UI/UX designer" width="100%">
 
-<br/>
+<img src="./assets/typing.svg" alt="Designing interfaces people enjoy. Building backends that hold up. Shipping things that move." width="100%">
 
-<a href="https://github.com/malakbenothmen">
-  <img src="https://img.shields.io/badge/GitHub-malakbenothmen-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-<a href="https://www.linkedin.com/malak-ben-othmane">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0F766E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:malekbenothmen70@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20hello-D97706?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<br/><br/>
-
-**Software engineering student ·  AI & Data explorer**
-
-*I build useful digital products where thoughtful engineering meets human-centered design.*
+<a href="https://claude.ai/artifact/XRxvq7mD9Qn4NAVEpUjCnN"><img src="https://img.shields.io/badge/Portfolio-e8a33d?style=for-the-badge&logo=safari&logoColor=0f1426" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0f1426?style=for-the-badge&logo=linkedin&logoColor=ece5d6" alt="LinkedIn"></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0f1426?style=for-the-badge&logo=gmail&logoColor=ece5d6" alt="Email"></a>
 
 </div>
 
----
+<br>
 
-## `01` — A little about me
+<img src="./assets/h-now.svg" alt="Now showing" width="100%">
 
-Hi, I'm **Malak Ben Othmane** — a computer science engineering student with a software development background and a curiosity for what technology can make possible.
+- **Millime**: building a Tunisian wallet and payment app, from the screens to the payment backend.
+- **ClaimGuard AI**: a review interface for health-claims pre-validation.
+- **Engineering degree** at École Nationale d'Ingénieurs de Carthage, after a licence in information systems development.
 
-I enjoy moving between the details that make a product work and the details that make it feel right: designing interfaces, shaping backend logic, connecting systems, and exploring how AI can make digital experiences more helpful.
+<img src="./assets/h-work.svg" alt="Selected work" width="100%">
 
-- 🧩 **I build:** web and mobile experiences, APIs, and integrated software products.
-- 🧠 **I'm exploring:** AI integration, data engineering, and intelligent systems.
-- 🎨 **I care about:** clear architecture, thoughtful UI/UX, and details that make technology easier to use.
-- 🌱 **My direction:** growing into an engineer who can connect software, data, and AI to solve real problems.
+*Click a card to open it.*
 
-> *Curiosity starts the idea. Engineering makes it useful.*
+<details>
+<summary><img src="./assets/c-millime.svg" alt="Millime" width="100%"></summary>
 
-## `02` — My technical canvas
+A wallet and payment app for the Tunisian market, designed and built end to end.
 
-<div align="center">
+- Card top-ups through ClicToPay, with direct credit, held funds and a scheduled release
+- Phone recharge for Ooredoo, Tunisie Telecom and Orange: voice or data, top-up or voucher
+- Screens in French, English and Arabic
+- Started during an internship at Alliance Technologie SA, a Tunisian card and payment systems company
 
-### Software & product engineering
+[Repository](https://github.com/YOUR-GITHUB-USERNAME/millime)
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,dart,flutter,react,nextjs,spring,html,css&theme=dark&perline=6" alt="Software development technologies" />
+</details>
 
-### Data, APIs & infrastructure
+<details>
+<summary><img src="./assets/c-claimguard.svg" alt="ClaimGuard AI" width="100%"></summary>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,postman,docker&theme=dark&perline=7" alt="Databases and development tools" />
+A teaching project that checks synthetic health claims before a human reviews them.
 
-### Design & product thinking
+- Python rules engine over 600 synthetic claims
+- Review interface: dashboard, review queue, claim detail, human decisions and audit log
+- Built to support a reviewer, not to decide reimbursements
 
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
+[Repository](https://github.com/YOUR-GITHUB-USERNAME/claimguard-ai)
 
-</div>
+</details>
 
-**Tools and technologies I've worked with include:** Flutter, Dart, Java, Spring Boot, JavaScript, TypeScript, React, Next.js, Python, PostgreSQL, MySQL, Git, REST APIs, and Figma.
+<details>
+<summary><img src="./assets/c-botanical.svg" alt="Botanical" width="100%"></summary>
 
-**Also explored in projects:** Hono, Bun, Drizzle ORM, Supabase, Neon, GetX, TanStack Query, shadcn/ui, Gemini API, and LiveKit.
+A cosmetics website where scrolling drives the story.
 
-*This is a snapshot of my learning and project experience—not a claim of mastery in every tool.*
+- Scroll-triggered scenes with GSAP and ScrollTrigger
+- A calm botanical look with slow, cinematic reveals
 
-## `03` — Selected work
+[Repository](https://github.com/YOUR-GITHUB-USERNAME/botanical)
 
-### 🩺 Kliniqa — Connected medical tourism platform
+</details>
 
-An integrated platform concept that brings together medical journeys, communication, accommodation, and wellness experiences in one product.
+<details>
+<summary><img src="./assets/c-topup.svg" alt="Top-up flow" width="100%"></summary>
 
-- **Focus:** full-stack product development, modular architecture, and AI-assisted user experience.
-- **My scope:** Flutter patient and doctor experiences, accommodation and wellness flows, and the Super Admin web interface.
-- **Stack:** Flutter · Hono · Bun · PostgreSQL · Drizzle · Supabase · LiveKit · Gemini API · Next.js
+A UX study of phone recharge in Tunisia, delivered as a working prototype.
 
-`Product thinking` `Full-stack` `AI integration` `Modular monolith`
+- Step-by-step selector: type, mode, operator, amount
+- Voice and data, top-up and voucher products
 
----
+[Repository](https://github.com/YOUR-GITHUB-USERNAME/topup-flow)
 
-### 🛡️ ClaimGuard AI — Healthcare claim pre-validation
+</details>
 
-A trustworthy AI-assisted workflow for pre-validating healthcare claims, with an emphasis on explainability, evaluation, security, and human review.
+<img src="./assets/h-tools.svg" alt="Toolkit" width="100%">
 
-- **Focus:** rule-based validation, structured healthcare data, testing, and auditability.
-- **What matters:** measure false positives and rule-level performance, route uncertain cases for human review, and keep decisions traceable.
-- **Stack:** Python · HL7 FHIR R4 · automated tests · validation and audit workflows
+<img src="./assets/toolkit.svg" alt="Flutter, Spring Boot, React, GSAP, Python, Oracle SQL, JPA, Figma, Mockoon, Docker" width="100%">
 
-`Healthcare AI` `Quality & evaluation` `Security-minded design`
+<img src="./assets/h-off.svg" alt="Off screen" width="100%">
 
----
+I play piano, cut video and follow what AI makes possible. Timing is the same skill in all three.
 
-### 💳 Millime — Mobile banking experience
+<img src="./assets/piano.svg" alt="A piano playing a melody by itself" width="100%">
 
-A mobile banking project focused on improving the user experience of financial services and supporting transaction flows.
+<img src="./assets/h-stats.svg" alt="Control room" width="100%">
 
-- **Focus:** mobile development, UI/UX redesign, API integration, and payment-related workflows.
-- **Stack:** Flutter · Spring Boot · MySQL · Keycloak
-
-`Fintech` `Mobile UX` `Backend integration`
-
----
-
-<div align="center">
-
-**More than a tech stack: I like understanding the whole product—from the first sketch to the system behind it.**
-
-</div>
-
-## `04` — What I'm exploring
+<details>
+<summary><b>Open the stats</b></summary>
 
 <div align="center">
 
-| Area | What I'm curious about |
-|---|---|
-| **AI & Data** | AI integration, data pipelines, trustworthy intelligent features |
-| **Software architecture** | Maintainable modules, API design, and reliable system boundaries |
-| **Web & mobile** | Accessible interfaces, useful workflows, and polished interactions |
-| **UI/UX** | Turning complex tasks into clear, approachable experiences |
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&bg_color=0f1426&title_color=e8a33d&icon_color=e8a33d&text_color=ece5d6&ring_color=e8a33d" alt="GitHub stats" height="160">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&bg_color=0f1426&title_color=e8a33d&text_color=ece5d6" alt="Top languages" height="160">
 
 </div>
 
-I’m especially interested in the space where these areas meet: **building software that is intelligent, reliable, and genuinely useful to people.**
+</details>
 
-## `05` — A few things I believe
+<br>
 
-- Good engineering is not just about making something work; it's about making it understandable and maintainable.
-- Design is part of the product, not a layer added at the end.
-- AI features should be useful, evaluated, and transparent about their limitations.
-- The best way to learn is to build, test, reflect, and improve.
-
-## `06` — Let's connect
-
-Have a project, an interesting technical challenge, or an idea worth exploring? I'd be happy to connect.
-
-<div align="center">
-
-<a href="https://github.com/malakbenothmen">GitHub</a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="mailto:YOUR_EMAIL@example.com">Email</a>
-
-<br/><br/>
-
-<img src="assets/footer.svg" alt="Keep building. Keep asking better questions." width="100%" />
-
-<sub>Designed with curiosity and a little teal glow · © Malak Ben Othmane</sub>
-
-</div>
+<a href="mailto:your.email@example.com"><img src="./assets/footer.svg" alt="Let's make something. Click to send an email." width="100%"></a>
